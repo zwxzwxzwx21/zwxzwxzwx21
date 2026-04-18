@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Alex!
 
-<!--
-**zwxzwxzwx21/zwxzwxzwx21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Do:
+I build bots that beat games and solve complex algorithmic problems. 
+Self-taught developer focused on Python, automation, and backend logic.
 
-Here are some ideas to get you started:
+##  Featured Projects
+-  **Tetris Bot** – 100+ PPS using custom heuristics + brute-force simulation
+-  **Minesweeper Bot** – Probabilistic deduction engine, clears boards automatically
+-  **Bejeweled Bot** – Match-3 optimization via pixel analysis
+-  **KTaNE Solver** – Full suite of algorithmic module solvers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-ambroz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexx0779@gmail.com)
